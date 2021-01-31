@@ -1,0 +1,35 @@
+.underline {
+
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#apps {
+    width: 100%;
+    height: 800px;
+background-color: skyblue;
+    
+}
+body{
+  text-align: center;
+    
+    
+}
+
+img{
+   transition:transform .4s; 
+    
+}
+ 
+img:hover{
+transform: scale(0.9);
+}
+#game{
+width:100%;
+    background-color: firebrick;
+    height:800px;
+    
+
+}
